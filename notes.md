@@ -1,13 +1,15 @@
-# Three pillars to write good HTML and CSS
+# Advanced CSS Notes
 
-## Responsive design 
+## Three pillars to write good HTML and CSS
+
+### Responsive design 
 - Fluid layouts
 - Media queries
 - Responsive Imgaes
 - Correct Units
 - Desktop first vs Mobile first
 
-## Maintainable and scalable code
+### Maintainable and scalable code
 - Clean
 - Easy to understand
 - Growth
@@ -16,10 +18,13 @@
 - Properly named classes
 - Properly structure HTML
 
-# Web preformance
+### Web preformance
 - Less HTTP requests
 - Less code
 - Compress code
 - Use a CSS preprocessor
 - Less images
 - Compress images
+
+## What Happens to CSS when we load up a webpage
+![Webpage Model](https://prnt.sc/10006dh)
