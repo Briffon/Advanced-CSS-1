@@ -27,4 +27,7 @@
 - Compress images
 
 ## What Happens to CSS when we load up a webpage
-![Webpage Model](https://prnt.sc/10006dh)
+![Webpage Model](https://github.com/Briffon/Advanced-CSS-1/blob/master/webpageProcess.png?raw=true)
+
+## Font Size
+- 10px = 1rem
